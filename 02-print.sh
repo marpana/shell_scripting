@@ -10,6 +10,9 @@ echo -e "\e[35mHello in Magenta Color\e[0m"
 echo -e "\e[36mHello in Cyan Color\e[0m"
 
 # scalar variables
+echo scalar variables
 b=(10 20)
 echo ${b[0]}
 echo ${b[1]}
+
+echo ${x}
